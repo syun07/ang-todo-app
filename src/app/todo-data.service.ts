@@ -1,4 +1,5 @@
 // TodoDataService is responsible for managing our Todo items
+// CENTRALIZE BUSINESS LOGIC IN A SERVICE!!
 
 import { Injectable } from '@angular/core';
 import { Todo } from './todo';
